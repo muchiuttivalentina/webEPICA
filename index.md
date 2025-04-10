@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Mi Página Markdown
+title: web EPICA
 ---
 
-# ¡Hola desde Markdown!
+# Hola que tal!! 
+## MI PAGINA WEB
 
-Este es un sitio web creado con GitHub Pages.  
-Puedes escribir **texto en Markdown** y se convierte en HTML automáticamente.
+A continuacion imagenes **epicas**
 
-- Editado con VSCode
-- Subido con Git
-- Convertido por GitHub Pages
+- Tralalero tralala
+![TRALALERO TRALALA](/home/valentina/Descargas/images.jpeg)
