@@ -9,4 +9,4 @@ title: web EPICA
 A continuacion imagenes **epicas**
 
 - Tralalero tralala
-![TRALALERO TRALALA](/home/valentina/Descargas/images.jpeg)
+![Tralalero tralala](images.jpeg)
