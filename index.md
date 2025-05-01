@@ -28,4 +28,4 @@ A continuacion imagenes **epicas**
 - JOHN PORK IS CALLING......
 ![John pork](mail.webp)
 
-ACEPT OR DECLINE...??
+ACCEPT OR DECLINE...??
