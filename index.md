@@ -7,7 +7,6 @@ title: web EPICA
 # Hola que tal!! 
 ## MI PAGINA WEB
 
-## aqui haciendo cambios :D
 
 A continuacion imagenes **epicas**
 
@@ -35,6 +34,6 @@ ACCEPT OR DECLINE...??
 **hey**
 ![John pork hey](John-Pork.webp)
 
-HOLA agregamos cosas!!! HELLO WORLD
 
-link a algo genial!!! https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
+
+**LINK A ALGO GENIAL!** https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
