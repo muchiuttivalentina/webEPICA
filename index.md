@@ -36,6 +36,6 @@ ACCEPT OR DECLINE...??
 
 
 
-
 **LINK A ALGO GENIAL!** 
-![Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+[Link a algo genial](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
